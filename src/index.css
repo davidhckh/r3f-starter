@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+    background: #262626;
+}
+
+#experience
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    height: 100%;
+    width: 100%;
+}
