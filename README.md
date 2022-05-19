@@ -1,4 +1,4 @@
-# R3F Stater
+# R3F Starter
 
 🏗️ This template is under construction.
 
